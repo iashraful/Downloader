@@ -1,7 +1,7 @@
 """
 	These all are the python code. And these code will represent the .py file 
 	conversation. Actually it will convert to exe file. For the reference software
-	you need to download cx_freeze first. And This is major that which verson of 
+	you need to download cx_freeze first. And This is major that which version of 
 	python you are using. 
 	I always prefer python 3 and 32 bit. Because when you make it and build it, it 
 	must run all machine.

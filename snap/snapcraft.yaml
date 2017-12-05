@@ -1,0 +1,14 @@
+
+  name: multi-get
+  version: '0.0.1' # just for humans, typically '1.2+git' or '1.3.2'
+  summary: This is simple downloder till now.
+  description: Will berify after this release.
+
+  grade: devel # must be 'stable' to release into candidate/stable channels
+  confinement: devmode # use 'strict' once you have the right plugs and slots
+
+  parts:
+    my-part:
+      # See 'snapcraft plugins'
+      plugin: nil
+  
